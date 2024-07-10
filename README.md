@@ -1,5 +1,5 @@
 # Google Cloud Project: Customer Churn Prediction and Analysis
-
+ ![mv](Untitled design.png)
 ## Overview
 This project utilizes Google Cloud services and other technologies to build a customer churn prediction model and visualize the results through a dashboard. Our goal is to predict customer churn and provide insights through effective data visualization.
 
