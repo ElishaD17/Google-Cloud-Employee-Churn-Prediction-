@@ -39,6 +39,11 @@ This project utilizes Google Cloud services and other technologies to build a cu
 5. **Dashboard Creation**:
    - Connect Looker Studio to the BigQuery datasets.
    - Design and build dashboards using the visual tools provided by Looker Studio.
+     
+## Dashboard Access
+To view the interactive dashboards and detailed visual analytics of the churn prediction results, click the following link to access the Looker Studio dashboard:
+
+[View Dashboard](https://lookerstudio.google.com/u/0/reporting/b25b2f82-f7f2-4189-92b9-6c49b9c35455/page/SOd5D)
 
 ## Code Snippets
 - **Connecting to BigQuery**:
