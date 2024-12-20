@@ -1,4 +1,4 @@
-# Google Cloud Project: Customer Churn Prediction and Analysis
+# Google Cloud Project: Employee Churn Prediction and Analysis
 ![mv](pd.png)
 
 ## Overview
