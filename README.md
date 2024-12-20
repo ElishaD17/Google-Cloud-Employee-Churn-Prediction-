@@ -2,7 +2,7 @@
 ![mv](pd.png)
 
 ## Overview
-This project utilizes Google Cloud services and other technologies to build a customer churn prediction model and visualize the results through a dashboard. Our goal is to predict customer churn and provide insights through effective data visualization.
+This project utilizes Google Cloud services and other technologies to build a employee churn prediction model and visualize the results through a dashboard. Our goal is to predict employee churn and provide insights through effective data visualization.
 
 ## Technologies Used
 - **Google BigQuery**: For data storage and query handling.
